@@ -47,6 +47,7 @@
 - [leetcode-in-go](https://github.com/aQuaYi/LeetCode-in-Go#leetcode-%E7%9A%84-go-%E8%A7%A3%E7%AD%94)
 - [Algorithm Archive](https://github.com/algorithm-archivists/algorithm-archive)
 - [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+- [算法珠玑](https://soulmachine.gitbooks.io/algorithm-essentials/java/)
 
 ## Sponsor
 1. [Lisanaaa](https://github.com/Lisanaaa): **Feel free to see my profile and send me an email if you have any job opportunities.**
@@ -81,7 +82,7 @@ If you feel your PR is satisfied with one of the conditions below, we are glad t
 
 Feel free to get our [Pull Request template/模版](https://github.com/apachecn/awesome-algorithm/blob/master/PULL_REQUEST_TEMPLATE.md)
 
-***Note that the file name needs to be filled out with underline 注意文件名需要填充下划线***
+***Title format(文件命名格式): xxx._word1_word2_word3_word4.md***
 
 If you are a newbie of Git, please check this [tutorial](https://github.com/apachecn/kaggle/tree/dev/docs/GitHub) we have made.
 
